@@ -14,7 +14,6 @@ To verify Norton’s theorem practically and theoretically for the given DC circ
 6.	Multimeter	---	1
 
 **THEORY:**
-
 **NORTON’S THEOREM:**
 
 Norton’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a current source, IN (=Isc) in parallel with a resistor RN (= RTh), where IN (=Isc) is the short-circuit current through the load terminals and RN is the equivalent resistance at the load terminals when the independent sources are turned off.Norton’s Current, IN or Isc:
@@ -25,19 +24,27 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+![1](https://github.com/user-attachments/assets/9f01610e-e921-4002-a0e6-6ffa264b23e4)
 
 
 **To measure RTh or RN**
+![2](https://github.com/user-attachments/assets/fdbcac0b-54bf-4d71-8141-d596bc24ac3c)
 
 
 
 **To measure IN or Isc**
+![3](https://github.com/user-attachments/assets/00862150-67ce-4f28-876e-d1e475c17466)
+
 
  
 **Thevenin’s equivalent circuit**
+![4](https://github.com/user-attachments/assets/26716221-6eb4-4d0d-99bb-c72ea6ecb242)
+
 
 
 **Norton’s equivalent circuit**
+![5](https://github.com/user-attachments/assets/5a9e7ca3-72de-40cb-bdf9-223dcc0e3689)
+
 
 
 **PROCEDURE:**
@@ -71,22 +78,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
-To measure I L
 
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
 
@@ -97,9 +89,18 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+![7](https://github.com/user-attachments/assets/5d744a5e-7d27-4f50-88bb-60f28b4f2027)
+![8](https://github.com/user-attachments/assets/38e4df97-30e4-4ec4-ad4a-967c37a6c3b5)
+
+
  
 
 
 **RESULT:**
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+
+**MARKS SPLIT UP**
+![6](https://github.com/user-attachments/assets/3276e69d-ba2f-4770-bf26-8fa547951c11)
+
+
